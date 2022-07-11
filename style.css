@@ -42,6 +42,8 @@ body{
 }
 .no-borders{
     width: 100%;
+    border-collapse: separate;
+    border-spacing: 0 5px;
 }
 
 .tracker-div{
